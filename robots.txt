@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://szuaoa.github.io/iYa/iYa.txt
